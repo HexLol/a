@@ -1,0 +1,10 @@
+{
+  "OWNER_ID": "770157611432673301",
+  "BOT_TOKEN": "ODYzMDgwMTQwNjI4MTY0NjE4.YOhsBA.fDjXjdEWxCWeXEoV_W7gZHwRJGw",
+  "tenorAPI": "WW7WR7O48J23",
+  "DEFAULT_PREFIX": "!",
+  "mongoPass": "mongodb+srv://Hex:Passwordyou7@cluster0.iclmp.mongodb.net/Project0?retryWrites=true&w=majority ",
+  "ERROR_LOGS_CHANNEL": "863299499580194866"
+
+}
+
